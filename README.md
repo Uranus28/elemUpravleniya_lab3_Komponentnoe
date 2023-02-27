@@ -1,1 +1,1 @@
-# elemUpravleniya_lab3_Komponentnoe
+вроде все файлы
