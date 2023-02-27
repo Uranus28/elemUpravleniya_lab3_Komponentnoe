@@ -1,0 +1,1 @@
+# elemUpravleniya_lab3_Komponentnoe
