@@ -1,0 +1,9 @@
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\obj\Debug\LabControls.csproj.AssemblyReference.cache
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\obj\Debug\LabControls.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\bin\Debug\LabControls.dll
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\bin\Debug\LabControls.pdb
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\obj\Debug\LabControls.dll
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\obj\Debug\LabControls.pdb
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\obj\Debug\LabControls.FilePathSelect.resources
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\obj\Debug\LabControls.csproj.GenerateResource.cache
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\LabControls\obj\Debug\LabControls.kvColor.resources

@@ -1,0 +1,12 @@
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\bin\Debug\WpfWatch.dll
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\bin\Debug\WpfWatch.pdb
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.csproj.AssemblyReference.cache
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.g.cs
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch_MarkupCompile.cache
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.baml
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.g.resources
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.Properties.Resources.resources
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.csproj.GenerateResource.cache
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.dll
+C:\Users\yuriy\source\3 лаба\WindowsFormsControlLab\WpfWatch\obj\Debug\WpfWatch.pdb
